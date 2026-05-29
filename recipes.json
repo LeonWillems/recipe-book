@@ -1,0 +1,603 @@
+{
+    "french-onion-soup": {
+        "name": "French Onion Soup",
+        "photo": "french-onion-soup.png",
+        "procedure": [
+            "Cut up all the onions",
+            "In pan with butter, oil & salt",
+            "Stir for at least an hour, or until brown",
+            "Throw in bay leaves and deglaze with wine",
+            "Pour in some flour and stir",
+            "Worcestershire sauce, rosemary & stock, 30 minutes",
+            "Put bread with cheese in oven; serve with soup"
+        ],
+        "ingredients": [
+            ["1kg", "onion"],
+            ["50g", "butter"],
+            ["2", "bay leaves"],
+            ["100ml", "white wine"],
+            ["10g", "flour"],
+            ["1tbsp", "worcestershire saucee"],
+            ["1ts", "rosemary"],
+            ["1", "baguette"],
+            ["100g", "grated cheese"]
+        ],
+        "subassembly": [
+            ["500ml", "stock"]
+        ],
+        "specs": {
+            "yield": "4 servings",
+            "type": "soup",
+            "prep_time": "20 min",
+            "cook_time": "90 min",
+            "price": "€10",
+            "diet": "vegetarian/vegan",
+            "scalability": "good",
+            "my_rating": 5
+        },
+        "notes": [
+            "To make it vegan, swap with vegan worcestershire sauze and vegan cheese",
+            "Recommended to use vegetable stock",
+            "For scaling: use multiple pans to sauté onions, throw in one big pot"
+        ]
+    },
+    "hungarian-goulash": {
+        "name": "Hungarian Goulash",
+        "photo": "hungarian-goulash.png",
+        "procedure": [
+            "Advised to cup everything up beforehand",
+            "Sauté meat in butter with salt, not too much at the sate time",
+            "Add the onions, sauté for a few minutes",
+            "Add the garlic, one minute",
+            "Add the vegetables (bell pepper, carrot, tomato), few minutes",
+            "Stir in tomato paste, then add caraway seeds and paprika powder",
+            "Add the bay leaves and stock, let it simmer for 2 hours",
+            "Throw in the potatoes, simmer for at least an hour more",
+            "Serve with some bread and sour cream"
+        ],
+        "ingredients": [
+            ["1kg", "beef chuck"],
+            ["50g", "butter"],
+            ["2", "onions"],
+            ["5", "cloves garlic"],
+            ["5", "bell peppers"],
+            ["3", "carrots"],
+            ["4", "tomatoes"],
+            ["1tbsp", "tomato paste"],
+            ["1tsp", "caraway seeds"],
+            ["30g", "paprika powder"],
+            ["2", "bay leaves"],
+            ["750g", "potatoes"],
+            ["2", "baguettes"],
+            ["200ml", "sour cream"]
+        ],
+        "subassembly": [
+            ["1l", "beef stock"]
+        ],
+        "specs": {
+            "yield": "8 servings",
+            "type": "soup",
+            "prep_time": "30 min",
+            "cook_time": "200 min",
+            "price": "€20-€25",
+            "diet": "meat",
+            "scalability": "good",
+            "my_rating": 5
+        },
+        "notes": [
+            "The home-made beef stock can be substituted by a jar of store-bought beef buillon (~300ml), with extra water",
+            "Sauté everything in batches. Especially for the meat, make sure the pan is not too crowded. Transfer everything to a big pot after"
+        ]
+    },
+    "bianco-mangiare": {
+        "name": "Bianco Mangiare",
+        "photo": "bianco-mangiare.png",
+        "procedure": [
+            "Mix sugar, corn starch, salt and half the almond milk until slurry",
+            "Pour in the rest of the almond milk, the lemon peel and cinnamon stick",
+            "Bring to a simmer while stirring",
+            "When a bit less thick than yoghurt, pour in a mold and refrigerate",
+            "Optional: serve with almond sprinkles"
+        ],
+        "ingredients": [
+            ["200g", "sugar"],
+            ["100g", "corn starch"],
+            ["1/2tsp", "salt"],
+            ["1l", "almond milk"],
+            ["1", "lemon peel"],
+            ["2", "cinnamon sticks"],
+            ["50g", "almonds (opt)"]
+        ],
+        "subassembly": [],
+        "specs": {
+            "yield": "10 servings",
+            "type": "dessert",
+            "prep_time": "10 min",
+            "cook_time": "20 min (60 min wait)",
+            "price": "€10",
+            "diet": "vegan & gluten-free",
+            "scalability": "medium",
+            "my_rating": 4
+        },
+        "notes": [
+            "The almond sprinkles are optional, but make for a nice plate"
+        ]
+    },
+    "white-chocolate-cookies": {
+        "name": "White Chocolate Cookies",
+        "photo": "white-chocolate-cookies.jpg",
+        "procedure": [
+            "Chop up the white chocolate, and potentially the oat flakes",
+            "In a bowl, mix the flour, salt, baking powder & baking soda",
+            "In another bowl, mix butter, vanilla extract and both sugars",
+            "To the last bowl, add the eggs one by one, keep mixing",
+            "When smooth, mix the two bowls together",
+            "Add in the oat flakes, white chocolate and cranberries",
+            "Let the mixture cool down 15 minutes & preheat the oven to 170 degrees Celsius",
+            "Roll into balls of ~4cm width, and flatten them a bit",
+            "Put on a tray, and in the oven for 10m30s",
+            "Let each batch settle outside the oven for half an hour"
+        ],
+        "ingredients": [
+            ["180g", "flour"],
+            ["1/2tsp", "salt"],
+            ["1tsp", "baking powder"],
+            ["1tsp", "baking soda"],
+            ["200g", "butter"],
+            ["2tsp", "vanilla extract"],
+            ["220g", "brown sugar"],
+            ["50g", "white sugar"],
+            ["2", "eggs"],
+            ["160g", "oat flakes"],
+            ["120g", "white chocolate"],
+            ["150g", "cranberries"]
+        ],
+        "subassembly": [],
+        "specs": {
+            "yield": "10 servings",
+            "type": "dessert",
+            "prep_time": "15 min",
+            "cook_time": "60 min",
+            "price": "€10",
+            "diet": "vegetarian",
+            "scalability": "good",
+            "my_rating": 4
+        },
+        "notes": [
+            "The cooking time highly depends on the batch size per oven run",
+            "If the oat flakes are too coarse, chop them up"
+        ]
+    },
+    "naan": {
+        "name": "Naan",
+        "photo": "naan.png",
+        "procedure": [
+            "Mix water & sugar",
+            "Mix in the dry yeast, sit for 15 minutes",
+            "In a separate bowl, mix flour, salt, yogurt & baking powder",
+            "Mix both, and knead well",
+            "Cover bowl with a towel, let it sit in a warm place for 90 minutes",
+            "Make even balls, and roll out well",
+            "Bake in a hot pan with oil",
+            "Put finely chopped garlic & butter in microwave for 30 seconds",
+            "Spread garlic & butter with some cilantro over the naan"
+        ],
+        "ingredients": [
+            ["150ml", "lukewarm water"],
+            ["2tsp", "sugar"],
+            ["3/2tsp", "dry yeast"],
+            ["250g", "flour"],
+            ["1/2tsp", "salt"],
+            ["200ml", "yogurt"],
+            ["1/4tsp", "baking powder"],
+            ["2", "cloves garlic"],
+            ["30g", "butter"],
+            ["15g", "cilantro"]
+        ],
+        "subassembly": [],
+        "specs": {
+            "yield": "5 servings",
+            "type": "side",
+            "prep_time": "110 min",
+            "cook_time": "20 min",
+            "price": "€10",
+            "diet": "vegetarian/vegan",
+            "scalability": "good",
+            "my_rating": 4
+        },
+        "notes": [
+            "To make vegan: use vegan yoghurt"
+        ]
+    },
+    "red-lentil-curry": {
+        "name": "Red Lentil Curry",
+        "photo": "red-lentil-curry.png",
+        "procedure": [
+            "Rinse lentils, chop garlic & chilis, grate ginger & turmeric",
+            "Mix garam masala, black pepper, salt, cumin, coriander, chili and curry powders",
+            "Sauté garlic, ginger, turmeric and peppers",
+            "Add spice mix",
+            "Add stock, bring to a simmer",
+            "Add the lentils and tomatoes, simmer for 30 minutes",
+            "Chop spinach & add, 10 more minutes",
+            "Add coconut milk, lemon juice and peanut butter, 10 more minutes"
+        ],
+        "ingredients": [
+            ["200g", "red lentils"],
+            ["4", "cloves garlic"],
+            ["2", "red/green chilis"],
+            ["5cm", "ginger"],
+            ["3cm", "turmeric"],
+            ["3/2tsp", "garam masala"],
+            ["1tsp", "cumin"],
+            ["1/2tsp", "coriander"],
+            ["1/2tsp", "chili powder"],
+            ["3/2tsp", "curry powder"],
+            ["400g", "crushed tomatoes"],
+            ["400g", "spinach"],
+            ["200ml", "coconut milk"],
+            ["1", "lemon"],
+            ["2tbsp", "peanut butter"]
+        ],
+        "subassembly": [
+            ["300ml", "stock"]
+        ],
+        "specs": {
+            "yield": "4 servings",
+            "type": "stew",
+            "prep_time": "20 min",
+            "cook_time": "60 min",
+            "price": "€12",
+            "diet": "vegan",
+            "scalability": "good",
+            "my_rating": 4
+        },
+        "notes": [
+            "Peanut butter is quite tough, so water down a bit and mix well",
+            "Of course, use veggie stock"
+        ]
+    },
+    "roti-chicken-masala": {
+        "name": "Roti Chicken Masala",
+        "photo": "roti-chicken-masala.png",
+        "procedure": [
+            "Cut up onions, garlic, chicken, potatoes and kouseband (if not frozen)",
+            "Sauté onion, then garlic",
+            "Add the chicken, until outer layer is done",
+            "Add tomato paste and stir for two minutes",
+            "Add the masala mix, stir for a minute",
+            "Add the potatoes, stir for two minutes",
+            "Add the stock, cover the lid and simmer for 45 minutes",
+            "Optionally: cut the head of a Madame Jeanette pepper, and add to stew",
+            "Add the kouseband, simmer for some 15 minutes more",
+            "Cook the eggs and heat up the roti",
+            "Serve the stew with eggs, roti and optionally yellow sambal"
+        ],
+        "ingredients": [
+            ["2", "onions"],
+            ["5", "cloves garlic"],
+            ["400g", "chicken"],
+            ["400g", "potatoes"],
+            ["500g", "kouseband"],
+            ["30g", "tomato paste"],
+            ["opt.", "Madame Jeanette peppers"],
+            ["4", "eggs"]
+        ],
+        "subassembly": [
+            ["3tbsp", "Hindoestaanse kerrie masala"],
+            ["500ml", "stock"],
+            ["4", "rotis"],
+            ["opt.", "yellow sambal"]
+        ],
+        "specs": {
+            "yield": "4 servings",
+            "type": "step",
+            "prep_time": "15 min",
+            "cook_time": "70 min",
+            "price": "€12",
+            "diet": "meat",
+            "scalability": "good",
+            "my_rating": 5
+        },
+        "notes": [
+            "I prefer chicken thighs for their natural fat contents",
+            "Madame Jeanette is a spicy pepper, use with caution (or use multiple)",
+            "Fresh kouseband is expensive, frozen tend to do well and are cheaper",
+            "Store-bought 'Hindoestaanse kerrie masala' will suffice, you might make it yourself",
+            "Making roti (the pancake) is labor intensive, store-bought roti dahl (with yellor split peas) are delicious",
+            "Sambal made from yellow/Suriname/Madame Jeanette peppers goes with will this dish"
+        ]
+    },
+    "veggie-stock": {
+        "name": "Veggie Stock",
+        "photo": "veggie-stock.png",
+        "procedure": [
+            "Cut op all the veggies",
+            "Sauté in a big soup pot for 10 minutes, stir often",
+            "Throw in tomato paste, stir for one more minute",
+            "Add salt, black pepper corns, MSG and Italian herbs, stir",
+            "Add water and simmer for 2 hours"
+        ],
+        "ingredients": [
+            ["4", "onions"],
+            ["1", "garlic bulb"],
+            ["3", "carrots"],
+            ["4", "selery stalks"],
+            ["30g", "tomato paste"],
+            ["10", "black pepper corns"],
+            ["2tsp", "MSG"],
+            ["2tbsp", "Italian herbs"],
+            ["1.5l", "water"]
+        ],
+        "subassembly": [],
+        "specs": {
+            "yield": "1.5 liter",
+            "type": "subassembly",
+            "prep_time": "10 min",
+            "cook_time": "135 min",
+            "price": "€5",
+            "diet": "vegan",
+            "scalability": "excellent",
+            "my_rating": 3
+        },
+        "notes": [
+            "About the actual cutting of the veggies: rough pieces",
+            "Boil water first for maximum efficiency",
+            "MSG is not necessary if you don't have it",
+            "Italian herbs? Just throw in whatever"
+        ]
+    },
+    "chili-con-carne": {
+        "name": "Chili Con Carne",
+        "photo": "chili-con-carne.png",
+        "procedure": [
+            "Cut up the onion, garlic and beller peppers, keep separate",
+            "Either cut up the chipotle peppers (in adobe sauce), or use a mixer",
+            "Cook the minced meat in butter",
+            "When brown-ish, throw in the onion, few minutes, garlic",
+            "Throw in the veggies, stir well",
+            "Add tomato paste, stir for a minute, add spices, stir well",
+            "Add the crushed tomatoes and chipotle peppers in adobe sauce",
+            "Add all the beans, bring to a simmer and stir occasionally for an hour",
+            "In the meanwhile: cook rice and serve together",
+            "Optionally, serve with crème fraîche, nachos and guacamole dip"
+        ],
+        "ingredients": [
+            ["2", "onions"],
+            ["5", "cloves garlic"],
+            ["5", "bell peppers"],
+            ["1", "can chipotle peppers in adobe sauce"],
+            ["400g", "minced meat"],
+            ["30g", "tomato paste"],
+            ["1tbsp", "smoked paprika"],
+            ["1tbsp", "cayenne pepper"],
+            ["200g", "crushed tomatoes"],
+            ["200g", "kidney beans"],
+            ["200g", "black beans"],
+            ["400g", "rice"],
+            ["opt.", "crème fraîche"],
+            ["opt.", "nachos"]
+        ],
+        "subassembly": [
+            ["opt.", "guacamole"]
+        ],
+        "specs": {
+            "persons": 4,
+            "type": "stew",
+            "prep_time": "20 min",
+            "cook_time": "90 min",
+            "price": "€12",
+            "diet": "meat",
+            "scalability": "good",
+            "my_rating": 5
+        },
+        "notes": [
+            "Optionally: add red wine & cocoa powder before crushed tomatoes",
+            "If making a big batch, cook everything in batches as well, add to big pot",
+            "Making a big batch adds to the total cooking time"
+        ]
+    },
+    "brownies": {
+        "name": "Brownies",
+        "photo": "brownies.png",
+        "procedure": [
+            "Prepare the bain-marie; bring water to a simmer",
+            "Cut the chocolate and butter, add to bain-marie and melt while mixing",
+            "When completely molten: cool a bit",
+            "Preheat the oven to 180C",
+            "In another bowl, mix sugars, add one egg at a time and properly mix",
+            "Add the salt, vanilla essence and chocolate/butter mix, mix everything well",
+            "Sift in the flour and cocoa powder, fold in carefully",
+            "To an oven tray, add parchment paper, and a bit of liquid butter or oil",
+            "Pour in the batter and bake for 32 minutes",
+            "Leave in the fridge overnight, cut up and serve"
+        ],
+        "ingredients": [
+            ["300g", "dark chocolate"],
+            ["175g", "butter"],
+            ["300g", "sugar"],
+            ["160g", "brown sugar"],
+            ["4", "medium eggs"],
+            ["1/2 tsp", "salt"],
+            ["2 tsp", "vanilla essence"],
+            ["95g", "flour"],
+            ["35g", "cocoa powder"]
+        ],
+        "subassembly": [],
+        "specs": {
+            "persons": 12,
+            "type": "dessert",
+            "prep_time": "20 min",
+            "cook_time": "32 min",
+            "price": "€10",
+            "diet": "vegetarian",
+            "scalability": "good",
+            "my_rating": 5
+        },
+        "notes": [
+            "First let the product cool at room temperature, then put in the fridge",
+            "These measures work for my oven and baking tray, scale by doing multiple batches"
+        ]
+    },
+    "beef-stew": {
+        "name": "Beef Stew",
+        "photo": "beef-stew.png",
+        "procedure": [
+            "Cut the beef chuck, fry in butter for 8 mins per batch",
+            "After each batch of food, throw it in one big pot, and deglaze with red wine",
+            "In the meanwhile, cut the onions, carrots, selery and garlic",
+            "Fry the mire poix for 5 minutes, add garlic, 1 more minute",
+            "Cut the mushrooms. Fry for 5 minutes, throw in some flour (opt.), 1 more minute",
+            "Add to the big pot: red wine, tomato can, stock, herbs, spices and Worcestershire sauce",
+            "Simmer for at least 1,5 hours",
+            "Cut and add potatoes, simmer 30 more minutes",
+            "Add frozen green peas, simmer 20 more minutes",
+            "Optionally serve with fresh parsley"
+        ],
+        "ingredients": [
+            ["1tbsp", "butter"],
+            ["1kg", "beef chuck"],
+            ["2", "onions"],
+            ["4", "carrots"],
+            ["4", "selery sticks"],
+            ["8", "cloves garlic"],
+            ["400g", "mushrooms"],
+            ["250ml", "red wine"],
+            ["1", "can of crushed tomatoes"],
+            ["3tsp", "Italian herbs"],
+            ["2tsp", "smoked paprika powder"],
+            ["3tbsp", "Worcestershire sauce"],
+            ["800g", "potatoes"],
+            ["400g", "frozen green peas"],
+            ["opt.", "flour"],
+            ["opt.", "fresh parsley"]
+        ],
+        "subassembly": [
+            ["800ml", "stock"]
+        ],
+        "specs": {
+            "persons": 8,
+            "type": "stew",
+            "prep_time": "40 min",
+            "cook_time": "140 min",
+            "price": "€20",
+            "diet": "meat",
+            "scalability": "good",
+            "my_rating": 5
+        },
+        "notes": [
+            "Leave plenty of space for the beef chuck to fry, otherwise you'll boil it",
+            "For Dutchies, buy 'runder riblappen'",
+            "Mire poix = fancy name for onions, carrot & selery"
+        ]
+    },
+    "one-pot-wonder": {
+        "name": "One Pot Wonder",
+        "photo": "one-pot-wonder.png",
+        "procedure": [
+            "Cut the onions into half-slices, set aside",
+            "Cut the chicken into bite-sized, set aside",
+            "Cut the courgette and bell peppers, set aside",
+            "Fry the bacon bits with the onions, stir for 2 minutes",
+            "During the stirring below, drain liquid from the legume containers",
+            "Add the chicken, stir for 4 minutes",
+            "Add the courgette and bell peppers, stir for 2 minutes",
+            "Add tomato paste, stir for 2 minutes",
+            "Add the smoked paprika powder and cumin, stir for 3 minutes",
+            "Add the can of tomatoes, and legumes, stir for 3 minutes",
+            "Let the pot simmer for 30 minutes",
+            "In the meanwhile, cook rice",
+            "Add the soy sauces and spinache, stir well for 4 minutes",
+            "Let the pot simmer for some 15 more minutes",
+            "Serve with rice"
+        ],
+        "ingredients": [
+            ["2", "onions"],
+            ["400g", "chicken"],
+            ["1", "courgette"],
+            ["2", "bell peppers"],
+            ["50g", "bacon bits"],
+            ["1", "can of chickpeas"],
+            ["1", "can of kidney beans"],
+            ["1", "can of another bean kind"],
+            ["40g", "tomato paste"],
+            ["2tbsp", "smoked paprika powder"],
+            ["2tsp", "cumin"],
+            ["1", "can of crushed tomatoes"],
+            ["200g", "rice"],
+            ["1tbsp", "regular soy sauce"],
+            ["1tbsp", "sweet soy sauce"],
+            ["200g", "spinache"]
+        ],
+        "subassembly": [],
+        "specs": {
+            "persons": 4,
+            "type": "stew",
+            "prep_time": "20 min",
+            "cook_time": "60 min",
+            "price": "€12",
+            "diet": "meat",
+            "scalability": "good",
+            "my_rating": 4
+        },
+        "notes": [
+            "It is possible to use potatoes instead of rice, cut them up and throw in with the sauces & spinache. Simmer for 20 minutes more"
+        ]
+    },
+    "bobotie": {
+        "name": "Bobotie",
+        "photo": "bobotie.png",
+        "procedure": [
+            "Cut the onions, carrot, garlic and chili, grate the ginger",
+            "Sauté the onions and carrot for 2 minutes, add the garlic, chili and ginger for 2 minutes",
+            "Add the minced beef/lamb/whatever, stir often. In the meanwhile: cut the courgette and green beans",
+            "If a bit of a color: add the courgette and green beans",
+            "After few minutes, add the spices and fry for few minutes as well",
+            "In the meanwhile, soak the cashews for a minute and cut in halves",
+            "Preheat the oven to 170C",
+            "Add the cashews, jam/chutney, and bay leaves",
+            "After a minute, add water and cook for 10 minutes",
+            "In the meanwhile, mix the eggs, milk and soy sauce (custard)",
+            "Transfer cooked stuff to an oven dish, layer the custard on top",
+            "Bake for 30 minutes (or until set). Meanwhile: cook rice, serve together"
+        ],
+        "ingredients": [
+            ["1", "onion"],
+            ["2", "carrots"],
+            ["4", "cloves garlic"],
+            ["1", "chili (or more!)"],
+            ["3cm", "ginger"],
+            ["400g", "mince (any)"],
+            ["1", "courgette"],
+            ["200g", "green beans"],
+            ["1tsp", "paprika powder"],
+            ["2tsp", "curry powder"],
+            ["1tbsp", "turmeric"],
+            ["30g", "cashew nuts"],
+            ["50g", "jam or chutney"],
+            ["3", "bay leaves"],
+            ["100ml", "water"],
+            ["2", "eggs"],
+            ["100ml", "milk"],
+            ["2tsp", "soy sauce"],
+            ["300g", "rice"]
+        ],
+        "subassembly": [
+            ["opt.", "yellow rice"]
+        ],
+        "specs": {
+            "persons": 4,
+            "type": "casserole",
+            "prep_time": "10 min",
+            "cook_time": "60 min",
+            "price": "€12",
+            "diet": "meat",
+            "scalability": "medium",
+            "my_rating": 4
+        },
+        "notes": [
+            "Can by any mince, I heard lamb and beef are nice",
+            "Rice could also be nice yellow rice"
+        ]
+    }
+}

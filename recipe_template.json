@@ -1,0 +1,28 @@
+{
+    "": {
+        "name": "",
+        "photo": ".png",
+        "procedure": [
+            ""
+        ],
+        "ingredients": [
+            ["1kg", "onion"]
+        ],
+        "subassembly": [
+            ["500ml", "stock"]
+        ],
+        "specs": {
+            "persons": 4,
+            "type": "soup",
+            "prep_time": "20 min",
+            "cook_time": "90 min",
+            "price": "€10",
+            "diet": "vegetarian/vegan",
+            "scalability": "good",
+            "my_rating": 0
+        },
+        "notes": [
+            ""
+        ]
+    }
+}
