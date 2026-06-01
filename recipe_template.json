@@ -12,7 +12,7 @@
             ["500ml", "stock"]
         ],
         "specs": {
-            "persons": 4,
+            "servings": 4,
             "type": "soup",
             "prep_time": "20 min",
             "cook_time": "90 min",

@@ -75,9 +75,9 @@ def process_recipe(key: str, recipe: dict) -> str:
 
     # Specs
     spec_labels = {
-        "yield": "Yield", "persons": "Persons", "type": "Type",
-        "prep_time": "Prep", "cook_time": "Cook", "price": "Price",
-        "diet": "Diet", "scalability": "Scale", "my_rating": "Rating",
+        "servings": "Servings", "type": "Type", "prep_time": "Prep",
+        "cook_time": "Cook", "price": "Price", "diet": "Diet",
+        "scalability": "Scale", "my_rating": "Rating",
     }
     spec_items = []
     for skey, label in spec_labels.items():

@@ -244,10 +244,12 @@ body {{
 }}
 
 .ingredients-table td.amount {{
-    width: 35%;
+    width: 25%;
     font-weight: bold;
     color: {COLOR_ACCENT};
     white-space: nowrap;
+    text-align: right;
+    padding-right: 1.2mm;
 }}
 
 .ingredients-table tr.alt {{

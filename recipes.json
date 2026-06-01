@@ -26,7 +26,7 @@
             ["500ml", "stock"]
         ],
         "specs": {
-            "yield": "4 servings",
+            "servings": "4 servings",
             "type": "soup",
             "prep_time": "20 min",
             "cook_time": "90 min",
@@ -75,7 +75,7 @@
             ["1l", "beef stock"]
         ],
         "specs": {
-            "yield": "8 servings",
+            "servings": "8 servings",
             "type": "soup",
             "prep_time": "30 min",
             "cook_time": "200 min",
@@ -110,7 +110,7 @@
         ],
         "subassembly": [],
         "specs": {
-            "yield": "10 servings",
+            "servings": "10 servings",
             "type": "dessert",
             "prep_time": "10 min",
             "cook_time": "20 min (60 min wait)",
@@ -154,7 +154,7 @@
         ],
         "subassembly": [],
         "specs": {
-            "yield": "10 servings",
+            "servings": "10 servings",
             "type": "dessert",
             "prep_time": "15 min",
             "cook_time": "60 min",
@@ -196,7 +196,7 @@
         ],
         "subassembly": [],
         "specs": {
-            "yield": "5 servings",
+            "servings": "5 servings",
             "type": "side",
             "prep_time": "110 min",
             "cook_time": "20 min",
@@ -243,7 +243,7 @@
             ["300ml", "stock"]
         ],
         "specs": {
-            "yield": "4 servings",
+            "servings": "4 servings",
             "type": "stew",
             "prep_time": "20 min",
             "cook_time": "60 min",
@@ -290,7 +290,7 @@
             ["opt.", "yellow sambal"]
         ],
         "specs": {
-            "yield": "4 servings",
+            "servings": "4 servings",
             "type": "step",
             "prep_time": "15 min",
             "cook_time": "70 min",
@@ -331,7 +331,7 @@
         ],
         "subassembly": [],
         "specs": {
-            "yield": "1.5 liter",
+            "servings": "1.5 liter",
             "type": "subassembly",
             "prep_time": "10 min",
             "cook_time": "135 min",
@@ -382,7 +382,7 @@
             ["opt.", "guacamole"]
         ],
         "specs": {
-            "persons": 4,
+            "servings": 4,
             "type": "stew",
             "prep_time": "20 min",
             "cook_time": "90 min",
@@ -425,7 +425,7 @@
         ],
         "subassembly": [],
         "specs": {
-            "persons": 12,
+            "servings": 12,
             "type": "dessert",
             "prep_time": "20 min",
             "cook_time": "32 min",
@@ -476,7 +476,7 @@
             ["800ml", "stock"]
         ],
         "specs": {
-            "persons": 8,
+            "servings": 8,
             "type": "stew",
             "prep_time": "40 min",
             "cook_time": "140 min",
@@ -531,7 +531,7 @@
         ],
         "subassembly": [],
         "specs": {
-            "persons": 4,
+            "servings": 4,
             "type": "stew",
             "prep_time": "20 min",
             "cook_time": "60 min",
@@ -586,7 +586,7 @@
             ["opt.", "yellow rice"]
         ],
         "specs": {
-            "persons": 4,
+            "servings": 4,
             "type": "casserole",
             "prep_time": "10 min",
             "cook_time": "60 min",
