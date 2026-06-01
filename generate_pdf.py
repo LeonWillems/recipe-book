@@ -79,16 +79,20 @@ def process_recipe(key: str, recipe: dict) -> str:
         "prep_time": "Prep", "cook_time": "Cook", "price": "Price",
         "diet": "Diet", "scalability": "Scale", "my_rating": "Rating",
     }
-    specs_cells = ""
+    spec_items = []
     for skey, label in spec_labels.items():
         if skey in specs:
             val = specs[skey]
             if skey == "my_rating":
                 val = render_stars(int(val))
-            specs_cells += (
+            spec_items.append(
                 f"<div class='spec-item'><span class='spec-label'>{label}"
                 f"</span><span class='spec-value'>{val}</span></div>\n"
             )
+
+    mid = len(spec_items) // 2
+    specs_cells_top = "".join(spec_items[:mid])
+    specs_cells_bottom = "".join(spec_items[mid:])
 
     # Notes
     notes_items = "\n".join(f"<li>{n}</li>" for n in notes if n)
@@ -97,8 +101,8 @@ def process_recipe(key: str, recipe: dict) -> str:
         notes_html = render_notes(notes_items)
 
     return render_recipe(
-        photo_html, ingr_rows, sub_html, name,
-        proc_items, specs_cells, notes_html,
+        photo_html, ingr_rows, sub_html, name, proc_items,
+        specs_cells_top, specs_cells_bottom, notes_html,
     )
 
 

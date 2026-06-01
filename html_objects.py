@@ -90,7 +90,8 @@ def render_recipe(
     sub_html: str,
     name: str,
     proc_items: str,
-    specs_cells: str,
+    specs_cells_top: str,
+    specs_cells_bottom: str,
     notes_html: str,
 ) -> str:
     return f"""
@@ -111,7 +112,8 @@ def render_recipe(
             <ol class="procedure-list">{proc_items}</ol>
         </div>
         <div class="section specs">
-            <div class="specs-grid">{specs_cells}</div>
+            <div class="specs-grid">{specs_cells_top}</div>
+            <div class="specs-grid">{specs_cells_bottom}</div>
         </div>
         {notes_html}
     </div>
@@ -267,9 +269,15 @@ body {{
     font-weight: bold;
 }}
 
+.specs {{
+    display: flex;
+    gap: {SECTION_GAP}mm;
+}}
+
 .specs-grid {{
-    display: grid;
-    grid-template-columns: 1fr 1fr;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
     gap: 0.8mm;
     background: {COLOR_SPECS_BG};
     border-radius: 4px;
