@@ -10,32 +10,32 @@ PAGE_HEIGHT_MM = 210
 ACCENT_BAR = 0.8
 
 # Margins (mm)
-MARGIN_FROM_ACCENT_BAR = 8  # Measured below ACCENT_BAR
-MARGIN_TOP = 8 + ACCENT_BAR
-MARGIN_BOTTOM = 8
-MARGIN_LEFT = 8
-MARGIN_RIGHT = 8
+MARGIN_FROM_ACCENT_BAR = 6  # Measured below ACCENT_BAR
+MARGIN_TOP = 6 + ACCENT_BAR
+MARGIN_BOTTOM = 6
+MARGIN_LEFT = 6
+MARGIN_RIGHT = 6
 
 # Column split: left column width as percentage of content area
 LEFT_COL_PERCENT = 38
 
 # Gap between left and right column (mm)
-COLUMN_GAP = 4
+COLUMN_GAP = 6
 
 # Photo
-PHOTO_MAX_HEIGHT_MM = 55  # max height for the photo area
-PHOTO_BORDER_RADIUS = 6   # px
+PHOTO_MAX_HEIGHT_MM = 60  # max height for the photo area
+PHOTO_BORDER_RADIUS = 8   # px
 
 # Font sizes (pt)
-FONT_SIZE_TITLE = 16
-FONT_SIZE_PROCEDURE = 8
-FONT_SIZE_INGREDIENTS = 8
-FONT_SIZE_SPECS = 7
-FONT_SIZE_NOTES = 7
-FONT_SIZE_SECTION_HEADER = 9
+FONT_SIZE_TITLE = 17
+FONT_SIZE_PROCEDURE = 9
+FONT_SIZE_INGREDIENTS = 9
+FONT_SIZE_SPECS = 8
+FONT_SIZE_NOTES = 9
+FONT_SIZE_SECTION_HEADER = 10
 
 # Spacing (mm)
-SECTION_GAP = 3          # gap between sections
+SECTION_GAP = 4          # gap between sections
 INGREDIENT_LINE_GAP = 1  # gap between ingredient lines
 PROCEDURE_LINE_GAP = 1   # gap between procedure steps
 NOTE_LINE_GAP = 1
